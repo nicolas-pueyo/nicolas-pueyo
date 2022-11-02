@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicolas
+- 👋 Hi, I’m Nicolás.
 - I am studying the first course of computer engineering at the University of Zaragoza
 - I am willing to be taught and learn as much as I can about this fascinating world.
 - This profile will contain mainly repositories of my lessons and work for college, for those who are interested in base level coding
