@@ -8,7 +8,7 @@ My skillset consists of:
   * C
   * C++
   * Java
-  * Haskell+
+  * Haskell
 + System scripting:
   * Bash
 + Frontend Web Development:
