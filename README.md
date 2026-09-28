@@ -1,5 +1,5 @@
 # 💫 About Me:
-4th year CS Student based in Zaragoza, Spain.<br>Interests on web development and DevOps<br>Future plans on learning HW and driver development
+CS Graduate. MSc in AI student. Currently in Madrid, Spain.
 
 
 ## 🌐 Socials:
